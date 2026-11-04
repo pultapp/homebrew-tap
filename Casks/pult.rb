@@ -1,6 +1,6 @@
 cask "pult" do
-  version "1.1.0"
-  sha256 "65959ca285aafb513a5b8a577280120b3d3e015ea10cb9104c84adcef89d1032"
+  version "1.1.1"
+  sha256 "2345bd1116c51a49fddd391a57323f556f017a30a4e8a94b07880b5fa6c5b8dc"
 
   url "https://getpult.app/download/Pult-#{version}.dmg"
   name "Pult"
